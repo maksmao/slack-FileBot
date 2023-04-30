@@ -6,7 +6,6 @@ import (
 	"os"
 	"os/exec"
 	"time"
-
 	"github.com/slack-go/slack"
 )
 
