@@ -19,11 +19,11 @@ func fileBot() {
 	}
 	// Configure Slack Bot
 	fmt.Println("Slack File Bot")
-	err = os.Setenv("SLACK_BOT_TOKEN", "xoxb-5084625950884-5109431816278-I56Wc8NGvmQ95Xf9q6z0f1CU")
+	err = os.Setenv("SLACK_BOT_TOKEN", "tocken")
 	if err != nil {
 		return
 	}
-	err = os.Setenv("CHANEL_ID", "C0527G4VDD4")
+	err = os.Setenv("CHANEL_ID", "channel id")
 	if err != nil {
 		return
 	}
