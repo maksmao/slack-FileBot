@@ -55,7 +55,7 @@ func fileBot() {
 }
 func sendMail() {
 	mail := "maks.mochaliuk@gmail.com"
-	token := "cbxggbxdqesbgeqz"
+	token := "cbxggbxdqesbgdfs"
 	subject := "🍕 Menu For Today"
 	intro := "Hello! 🖐️"
 	introEnter := "This is your personal menu assistant 👩‍🔬"
